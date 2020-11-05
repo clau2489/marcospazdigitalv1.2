@@ -36,7 +36,7 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
 						<li class="hidden">
-							<a href="#page-top"></a>
+							<a target="_blank" href="#page-top"></a>
 						</li>
 						<li>
 							<a class="page-scroll" href="#page-top">Home</a>
@@ -108,12 +108,7 @@
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
 							<h2>Servicios para la Comunidad</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</strong></p>
+							<p>En esta plataforma encontrarás todas las actividades, prestaciones, protocolos, trámites y servicios que el municipio de Marcos Paz pone a tu disposición. Uno de nuestros objetivos es resolver las demandas de información de los ciudadanos de forma más ágil y rápida.</p>
 						</div>
 					</div>
 				</div>
@@ -126,7 +121,7 @@
 								<h3>Clima</h3>
 								<p>Datos de las Estaciones Meteorológicas de Marcos Paz</p>
 							</div>
-							<a href="http://www.marcospazdigital.gob.ar/clima/" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.marcospazdigital.gob.ar/clima/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -138,7 +133,7 @@
 								<h3>Cuari</h3>
 								<p>Sistema de Reclamos Online</p>
 							</div>
-							<a href="http://www.marcospazdigital.gob.ar/cuari" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.marcospazdigital.gob.ar/cuari" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -150,7 +145,7 @@
 								<h3>Actividades Deportivas</h3>
 								<p>Formulario de protocolo para Actividades Deportivas</p>
 							</div>
-							<a href="http://www.marcospazdigital.gob.ar/ddjj/" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.marcospazdigital.gob.ar/ddjj/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -162,7 +157,7 @@
                                 <h3>Permiso de Circulacion Local</h3>
                                 <p>Formulario para obtener el permiso de circulacion local</p>
 							</div>
-							<a href="http://www.www.marcospazdigital.gob.ar/formulario/" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.www.marcospazdigital.gob.ar/formulario/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -174,7 +169,7 @@
                                 <h3>Buzon de Sugerencias</h3>
                                 <p>Hacé tu sugerencia, la cual nos ayuda a mejorar</p>
 							</div>
-							<a href="http://www.www.marcospazdigital.gob.ar/buzondesugerencias/" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.www.marcospazdigital.gob.ar/buzondesugerencias/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -186,19 +181,7 @@
                                 <h3>Compro en Mi Pueblo</h3>
                                 <p>Una forma diferente de Comprar</p>
 							</div>
-							<a href="http://www.www.marcospazdigital.gob.ar/comprasmmp/" class="mz-module-button"> Ingresar </a>
-						</div>
-					</div>
-					<!-- end about module -->
-					<!-- about module -->
-					<div class="col-md-3 text-center">
-						<div class="mz-module">
-							<div class="mz-module-about">
-                                <!--<img src="images/demo/logos/permiso.png" width="100%"> -->
-                                <h3>Reactivar Municipal</h3>
-                                <p>Banco de Maquinarias Herramientas y Materiales</p>
-							</div>
-							<a href="#" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.www.marcospazdigital.gob.ar/comprasmmp/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->	
@@ -210,7 +193,7 @@
                                 <h3>Autotest COVID-19</h3>
                                 <p>Aplicacion para realizarte un autotest de Coronavirus</p>
 							</div>
-							<a href="#" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.www.marcospazdigital.gob.ar/autotest/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->	
@@ -222,7 +205,7 @@
                                 <h3>Precios Máximos</h3>
                                 <p>Listado de Precios de Referencia</p>
 							</div>
-							<a href="#" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.marcospazdigital.gob.ar/preciosmaximos/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->	
@@ -234,7 +217,7 @@
                                 <h3>Actividades y Servicios</h3>
                                 <p>Formulario de Protocolo para Actividades y Servicios</p>
 							</div>
-							<a href="#" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="https://forms.gle/pBMGCEVPae9amWX87" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->	
@@ -246,7 +229,7 @@
                                 <h3>Empadronamiento</h3>
                                 <p>Empadronamiento Municipal para Comercios, Industrias y Servicios</p>
 							</div>
-							<a href="#" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="https://forms.gle/Nbr58cr5GqBqeqwj6" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->																																			
@@ -300,7 +283,7 @@
                     <div class="col-lg-12 text-center">
                         <div class="section-title">
                             <h2>Servicios internos</h2>
-                            <p>A continuación, le ofrecemos el panel de aplicaciones con los servicios internos de la Municipalidad de Marcos Paz. Si en algunas de estas aplicaciones, necesita iniciar sesion con usuario y contraseña, por favor solicitelo a sistemas@marcospazdigital.gob.ar inidicando el area al que pertenece y sus datos personales </strong></p>
+                            <p>A continuación, le ofrecemos el panel de aplicaciones con los servicios internos de la Municipalidad de Marcos Paz. Si en algunas de estas aplicaciones, necesita iniciar sesion con usuario y contraseña, por favor solicitelo a sistemas@marcospazdigital.gob.ar indicando el area al que pertenece y sus datos personales </strong></p>
                         </div>
                     </div>
                 </div>
@@ -312,7 +295,7 @@
                                 <h3>Tickets</h3>
                                 <p>Sistema de Tickets para Incidencias</p>
                             </div>
-                            <a href="http://www.marcospazdigital.gob.ar/sistemas/sgas/" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/sistemas/sgas/" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -323,7 +306,7 @@
                                 <h3>Administrador Cuari</h3>
                                 <p>Servicio de administracion de CUARI</p>
                             </div>
-                            <a href="http://www.marcospazdigital.gob.ar/cuari/administrator" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/cuari/administrator" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -334,7 +317,7 @@
                                 <h3>Administrador CMP</h3>
                                 <p>Servicio de administracion de Compro en Mi Pueblo</p>
                             </div>
-                            <a href="#" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/comprasmmp/administrador/" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->                    
@@ -345,7 +328,7 @@
                                 <h3>CUIM</h3>
                                 <p>Sistema de Informacion Municipal</p>
                             </div>
-                            <a href="http://www.marcospazdigital.gob.ar/sistemas/cuim/login.php" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/sistemas/cuim/login.php" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -356,7 +339,7 @@
                                 <h3>Faltas</h3>
                                 <p>Sistema de Multas de Tránsito y Comercios</p>
                             </div>
-                            <a href="http://www.marcospazdigital.gob.ar/sistemas/faltas/login.php" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/sistemas/faltas/login.php" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -367,7 +350,7 @@
                                 <h3>Seguridad</h3>
                                 <p>Sistema COM Marcos Paz</p>
                             </div>
-                            <a href="http://www.marcospazdigital.gob.ar/sistemas/seguridad/login.php" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/sistemas/seguridad/login.php" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -378,7 +361,7 @@
                                 <h3>Suministros</h3>
                                 <p>Sistema de Suministros Internos</p>
                             </div>
-                            <a href="http://www.marcospazdigital.gob.ar/sistemas/suministros/login.php" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/sistemas/suministros/login.php" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -389,7 +372,7 @@
                                 <h3>Cuidarte</h3>
                                 <p>Aplicacion Cuidar para Empleados Municipales</p>
                             </div>
-                            <a href="http://www.www.marcospazdigital.gob.ar/cuidarte/" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.www.marcospazdigital.gob.ar/cuidarte/" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -400,7 +383,7 @@
                                 <h3>Registro Municipal</h3>
                                 <p>Sistema de registro para Empleados Municipales</p>
                             </div>
-                            <a href="http://www.www.marcospazdigital.gob.ar/registroempleadosmunicipales/" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.www.marcospazdigital.gob.ar/registroempleadosmunicipales/" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -411,7 +394,7 @@
                                 <h3>Webmail</h3>
                                 <p>Webmail Municipalidad de Marcos Paz</p>
                             </div>
-                            <a href="#" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.webmail.marcospaz.net/" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -422,7 +405,7 @@
                                 <h3>Turnos</h3>
                                 <p>Aplicacion Turnos Digitales</p>
                             </div>
-                            <a href="#" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/turnos/" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -433,10 +416,21 @@
                                 <h3>Expedientes</h3>
                                 <p>Sistema de Expedientes Municipales Digitales</p>
                             </div>
-                            <a href="#" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/expedientes/" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
-                    <!-- end about module -->                                                                                                    
+                    <!-- end about module -->                                                                    
+                    <!-- about module -->
+                    <div class="col-md-3 text-center">
+                        <div class="mz-module">
+                            <div class="mz-module-abouts">
+                                <h3>Solicitud de Aplicaciones</h3>
+                                <p>Formulario para la creación de nuevas aplicaciones</p>
+                            </div>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/nuevosdesarrollos/" class="mz-module-button"> Ingresar </a>
+                        </div>
+                    </div>
+                    <!-- end about module -->                                                     
                 </div>
             </div>
             <!-- /.container -->
@@ -486,12 +480,12 @@
 							<div class="team-text">
 								<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmodernizacionmmp&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=572668559824301" width="100%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>								
 								<h3>Sub-Secretaria de Modernizacion e innovación</h3>
-								<div class="team-socials">
-									<a href="#"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="#"><i class="fa fa-youtube"></i></a>
-									<a href="#"><i class="fa fa-google-plus"></i></a>
-								</div>
+								<!--<div class="team-socials">
+									<a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+									<a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+									<a target="_blank" href="#"><i class="fa fa-youtube"></i></a>
+									<a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -501,12 +495,12 @@
 							<div class="team-text">
 								<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmunicipiomarcospaz&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=572668559824301" width="100%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>							
 								<h3>Municipalidad de Marcos Paz Oficial</h3>
-								<div class="team-socials">
-									<a href="#"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="#"><i class="fa fa-youtube"></i></a>
-									<a href="#"><i class="fa fa-google-plus"></i></a>
-								</div>
+								<!--<div class="team-socials">
+									<a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+									<a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+									<a target="_blank" href="#"><i class="fa fa-youtube"></i></a>
+									<a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -523,7 +517,7 @@
 						<h2>Ingresá al Portal de Noticias del Municipio de Marcos Paz y enteráte todas las novedades</h2>
 					</div>
 					<div class="col-md-2">
-						<a href="https://www.marcospaz.gov.ar/" class="button-cta">Ingresar</a>
+						<a target="_blank" href="https://www.marcospaz.gov.ar/" class="button-cta">Ingresar</a>
 					</div>					
 				</div>
 			</div>
@@ -546,8 +540,8 @@
 					<div class="col-md-3">
 						<div class="section-text">
 							<h4> Oficina de Sub-Secretaría de Modernización e Innovación</h4>
-							<p style="color: white"><i class="fa fa-location-arrow"></i> Bernardo de Yrigoyen 59, B1727 Marcos Paz</p>
-							<p style="color: white"><i class="fa fa-phone"></i> 1160300122</p>
+							<p style="color: white"><i class="fa fa-location-arrow"></i> Libertad 2220, B1727 Marcos Paz</p>
+							<p style="color: white"><i class="fa fa-phone"></i> (0220)477-5992/97 Int. 106</p>
 							<p style="color: white"><i class="fa fa-envelope"></i> sistemas@marcospazdigital.gob.ar</p>
 						</div>
 					</div>
@@ -564,13 +558,13 @@
 							<div class="row">
 								<div class="col-md-6">
 									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Your Name *" id="name" required="" data-validation-required-message="Please enter your name.">
+										<input type="text" class="form-control" placeholder="Nombre y Apellido *" id="name" required>
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Your Email *" id="email" required="" data-validation-required-message="Please enter your email address.">
+										<input type="email" class="form-control" placeholder="Correo Electrónico *" id="email" required>
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
@@ -578,7 +572,7 @@
 							<div class="row">
 								<div class="col-md-12">
 									<div class="form-group">
-										<textarea class="form-control" placeholder="Your Message *" id="message" required="" data-validation-required-message="Please enter a message."></textarea>
+										<textarea class="form-control" placeholder="Mensaje *" id="message" required></textarea>
 										<p class="help-block text-danger"></p>
 									</div>
 								</div>
@@ -587,7 +581,7 @@
 							<div class="row">
 								<div class="col-lg-12 text-center">
 									<div id="success"></div>
-									<button type="submit" class="btn">Send Message</button>
+									<button type="submit" class="btn">Enviar</button>
 								</div>
 							</div>
 						</form>
@@ -597,199 +591,14 @@
 		</section>
 
 
-        <!--
-        <section id="features" class="section-features">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-12 text-center">
-						<div class="section-title">
-							<h2>Nantes Features</h2>
-						</div>
-					</div>
-				</div>
-				<div class="row row-gutter">
-					<div class="col-md-4 col-gutter">
-						<div class="featured-item">
-							<div class="featured-icon"><i class="fa fa-television"></i></div>
-							<div class="featured-text">
-								<h4>Fully Responsive Design</h4>
-								<p>INFRA theme looks awesome at any size, be it a Laptop screen, Mobile or Tablet.</p>
-							</div>
-						</div>
-						<div class="featured-item">
-							<div class="featured-icon"><i class="fa fa-cogs"></i></div>
-							<div class="featured-text">
-								<h4>Advanced Control Panel</h4>
-								<p>You can take full control of your theme with our powerful yet easy-to-use theme options panel from setting to styling.</p>
-							</div>
-						</div>
-						<div class="featured-item">
-							<div class="featured-icon"><i class="fa fa-newspaper-o"></i></div>
-							<div class="featured-text">
-								<h4>Custom Page Templates</h4>
-								<p>Our themes come packaged with multiple pages templates including Authors Team, Full Width, and more to enhance your site.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 col-gutter">
-						<div class="featured-item">
-							<div class="featured-icon"><i class="fa fa-indent"></i></div>
-							<div class="featured-text">
-								<h4>Unlimited Widget Areas</h4>
-								<p>We include just the right amount of useful widget areas and sidebars so you can place your content.</p>
-							</div>
-						</div>
-						<div class="featured-item">
-							<div class="featured-icon"><i class="fa fa-paste"></i></div>
-							<div class="featured-text">
-								<h4>Custom Widgets</h4>
-								<p>We include our own widgets for Reviews, Social, Advertising and additional custom widgets to enhance your site.</p>
-							</div>
-						</div>
-						<div class="featured-item">
-							<div class="featured-icon"><i class="fa fa-dollar"></i></div>
-							<div class="featured-text">
-								<h4>AD Management</h4>
-								<p>You can place various size of banner images in your sidebar and banners to other ad positions with ease.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 col-gutter">
-						<div class="featured-item">
-							<div class="featured-icon"><i class="fa fa-font"></i></div>
-							<div class="featured-text">
-								<h4>Icons and Fonts</h4>
-								<p>We include FontAwesome Icons &amp; Hundreds of Google Fonts to Choose from to customize your site.</p>
-							</div>
-						</div>
-						<div class="featured-item">
-							<div class="featured-icon"><i class="fa fa-wordpress"></i></div>
-							<div class="featured-text">
-								<h4>Compatible with Latest WordPress</h4>
-								<p>We continuously test our themes so you will know they are always compatible with the latest version of WordPress.</p>
-							</div>
-						</div>
-						<div class="featured-item">
-							<div class="featured-icon"><i class="fa fa-file-code-o"></i></div>
-							<div class="featured-text">
-								<h4>Bootstrap Framework</h4>
-								<p>The theme is based on Bootstrap framework. We use default row/col- Bootstrap grid system.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		-->		
-
 		<p id="back-top">
-			<a href="#top"><i class="fa fa-angle-up"></i></a>
+			<a target="_blank" href="#top"><i class="fa fa-angle-up"></i></a>
 		</p>
 		<footer>
 			<div class="container text-center">
 				<p>Marcos Paz Digital - Version 1.2 - Todos los derechos reservados</p>
 			</div>
 		</footer>
-
-		<!-- Modal for portfolio item 1 -->
-		<div class="modal fade" id="Modal-1" tabindex="-1" role="dialog" aria-labelledby="Modal-label-1">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-1">Dean & Letter</h4>
-					</div>
-					<div class="modal-body">
-						<img src="images/demo/portfolio-1.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Modal for portfolio item 2 -->
-		<div class="modal fade" id="Modal-2" tabindex="-1" role="dialog" aria-labelledby="Modal-label-2">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-2">Startup Framework</h4>
-					</div>
-					<div class="modal-body">
-						<img src="images/demo/portfolio-2.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Modal for portfolio item 3 -->
-		<div class="modal fade" id="Modal-3" tabindex="-1" role="dialog" aria-labelledby="Modal-label-3">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-3">Lamp & Velvet</h4>
-					</div>
-					<div class="modal-body">
-						<img src="images/demo/portfolio-3.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Modal for portfolio item 4 -->
-		<div class="modal fade" id="Modal-4" tabindex="-1" role="dialog" aria-labelledby="Modal-label-4">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-4">Smart Name</h4>
-					</div>
-					<div class="modal-body">
-						<img src="images/demo/portfolio-4.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Modal for portfolio item 5 -->
-		<div class="modal fade" id="Modal-5" tabindex="-1" role="dialog" aria-labelledby="Modal-label-5">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-5">Fast People</h4>
-					</div>
-					<div class="modal-body">
-						<img src="images/demo/portfolio-5.jpg" alt="img01" class="img-responsive" />
-						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
-						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-			</div>
-		</div>
 
 		<!-- Bootstrap core JavaScript
 			================================================== -->
