@@ -20,7 +20,7 @@
 	</head>
 	<body id="page-top">
 		<!-- Navigation -->
-		<nav class="navbar navbar-default">
+		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header page-scroll">
@@ -62,6 +62,7 @@
 			</div>
 			<!-- /.container-fluid -->
 		</nav>
+		<br><br><br>
 		<!-- Header -->
 		<header>
 			<div class="container-fluid">
@@ -229,10 +230,22 @@
                                 <h3>Empadronamiento</h3>
                                 <p>Empadronamiento Municipal para Comercios, Industrias y Servicios</p>
 							</div>
-							<a target="_blank" href="https://forms.gle/Nbr58cr5GqBqeqwj6" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="https://forms.gle/GLctqbKcrkHoY7iB6" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
-					<!-- end about module -->																																			
+					<!-- end about module -->															
+					<!-- about module -->
+					<div class="col-md-3 text-center">
+						<div class="mz-module">
+							<div class="mz-module-about">
+                                <!--<img src="images/demo/logos/permiso.png" width="100%"> -->
+                                <h3>Radicación Virtual</h3>
+                                <p>Formulario de Solicitud al Programa Municipal de Radicación Virtual</p>
+							</div>
+							<a target="_blank" href="https://forms.gle/MZU2bhKGZMvVsKPF9" class="mz-module-button"> Ingresar </a>
+						</div>
+					</div>
+					<!-- end about module -->																									
 				</div>
 			</div>
 			<!-- /.container -->
