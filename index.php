@@ -437,7 +437,7 @@
                                 <h3>Webmail</h3>
                                 <p>Webmail Municipalidad de Marcos Paz</p>
                             </div>
-                            <a target="_blank" href="http://www.webmail.marcospaz.net/" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://webmail.marcospaz.net/" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
