@@ -30,7 +30,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand page-scroll" href="#page-top"><img src="images/logo.png" alt="Sanza theme logo" style="width: 150px"></a>
+					<a class="navbar-brand page-scroll" href="#page-top"><img src="images/logo.png" alt="Sanza theme logo" style="width: 130px"></a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -62,10 +62,12 @@
 			</div>
 			<!-- /.container-fluid -->
 		</nav>
-		<br><br><br>
+		<br><br><br><br>
 		<!-- Header -->
 		<header>
-			<div class="container-fluid">
+			<video src="images/mp2.mp4" width="100%" height="100%" autoplay muted loop></video>			
+			<!--
+			<div class="container-fluid" id="slider-container">
 				<div class="slider-container">
 
 						<div class="owl-slider owl-carousel">
@@ -73,7 +75,16 @@
 								<div class="owl-slider-item">
 									<img src="images/demo/slider-1.jpg" class="img-responsive" alt="portfolio">
 									<div class="intro-text">
-										
+
+										<div class="intro-heading">Marcos Paz Digital</div>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="owl-slider-item">
+									<img src="images/demo/slider-1.jpg" class="img-responsive" alt="portfolio">
+									<div class="intro-text">
+
 										<div class="intro-heading">Plataforma de Herramientas Digitales</div>
 									</div>
 								</div>
@@ -82,24 +93,15 @@
 								<div class="owl-slider-item">
 									<img src="images/demo/slider-1.jpg" class="img-responsive" alt="portfolio">
 									<div class="intro-text">
-										
-										<div class="intro-heading">Plataforma de Herramientas Digitales</div>
-									</div>
-								</div>
-							</div>
-							<div class="item">
-								<div class="owl-slider-item">
-									<img src="images/demo/slider-1.jpg" class="img-responsive" alt="portfolio">
-									<div class="intro-text">
-										
-										<div class="intro-heading">Plataforma de Herramientas Digitales</div>
+
+										<div class="intro-heading">Servicios para la comunidad</div>
 									</div>
 								</div>
 							</div>
 						</div>
 
 				</div>
-			</div>
+			</div> -->
 		</header>
 
 
@@ -118,7 +120,7 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-								<!--<img src="images/demo/logos/clima.png" width="100%"> -->
+								<img src="images/iconos/tormenta.png" width="50%">
 								<h3>Clima</h3>
 								<p>Datos de las Estaciones Meteorológicas de Marcos Paz</p>
 							</div>
@@ -130,7 +132,7 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-								<!--<img src="images/demo/logos/cuari.png" width="100%"> -->
+								<img src="images/iconos/expediente.png" width="50%">
 								<h3>Cuari</h3>
 								<p>Sistema de Reclamos Online</p>
 							</div>
@@ -142,7 +144,7 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-								<!--<img src="images/demo/logos/formulario.png" width="100%">-->
+								<img src="images/iconos/deporte.png" width="50%">
 								<h3>Actividades Deportivas</h3>
 								<p>Formulario de protocolo para Actividades Deportivas</p>
 							</div>
@@ -154,11 +156,11 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-                                <!--<img src="images/demo/logos/permiso.png" width="100%"> -->
+                                <img src="images/iconos/carros.png" width="50%">
                                 <h3>Permiso de Circulacion Local</h3>
                                 <p>Formulario para obtener el permiso de circulacion local</p>
 							</div>
-							<a target="_blank" href="http://www.www.marcospazdigital.gob.ar/formulario/" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.marcospazdigital.gob.ar/formulario/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -166,11 +168,11 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-                                <!--<img src="images/demo/logos/permiso.png" width="100%"> -->
+                                <img src="images/iconos/email.png" width="50%">
                                 <h3>Buzon de Sugerencias</h3>
                                 <p>Hacé tu sugerencia, la cual nos ayuda a mejorar</p>
 							</div>
-							<a target="_blank" href="http://www.www.marcospazdigital.gob.ar/buzondesugerencias/" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.marcospazdigital.gob.ar/buzondesugerencias/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -178,11 +180,11 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-                                <!--<img src="images/demo/logos/permiso.png" width="100%"> -->
+                                <img src="images/iconos/shopping.png" width="50%">
                                 <h3>Compro en Mi Pueblo</h3>
                                 <p>Una forma diferente de Comprar</p>
 							</div>
-							<a target="_blank" href="http://www.www.marcospazdigital.gob.ar/comprasmmp/" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.marcospazdigital.gob.ar/comprasmmp/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->	
@@ -190,11 +192,11 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-                                <!--<img src="images/demo/logos/permiso.png" width="100%"> -->
+                                <img src="images/iconos/virus.png" width="50%">
                                 <h3>Autotest COVID-19</h3>
                                 <p>Aplicacion para realizarte un autotest de Coronavirus</p>
 							</div>
-							<a target="_blank" href="http://www.www.marcospazdigital.gob.ar/autotest/" class="mz-module-button"> Ingresar </a>
+							<a target="_blank" href="http://www.marcospazdigital.gob.ar/autotest/" class="mz-module-button"> Ingresar </a>
 						</div>
 					</div>
 					<!-- end about module -->	
@@ -202,7 +204,7 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-                                <!--<img src="images/demo/logos/permiso.png" width="100%"> -->
+                                <img src="images/iconos/price.png" width="50%">
                                 <h3>Precios Máximos</h3>
                                 <p>Listado de Precios de Referencia</p>
 							</div>
@@ -214,7 +216,7 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-                                <!--<img src="images/demo/logos/permiso.png" width="100%"> -->
+                                <img src="images/iconos/trabajando.png" width="50%">
                                 <h3>Actividades y Servicios</h3>
                                 <p>Formulario de Protocolo para Actividades y Servicios</p>
 							</div>
@@ -226,7 +228,7 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-                                <!--<img src="images/demo/logos/permiso.png" width="100%"> -->
+                                <img src="images/iconos/llave.png" width="50%">
                                 <h3>Empadronamiento</h3>
                                 <p>Empadronamiento Municipal para Comercios, Industrias y Servicios</p>
 							</div>
@@ -238,7 +240,7 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module">
 							<div class="mz-module-about">
-                                <!--<img src="images/demo/logos/permiso.png" width="100%"> -->
+                                <img src="images/iconos/form.png" width="50%">
                                 <h3>Radicación Virtual</h3>
                                 <p>Formulario de Solicitud al Programa Municipal de Radicación Virtual</p>
 							</div>
@@ -250,6 +252,24 @@
 			</div>
 			<!-- /.container -->
 		</section>
+
+		<iframe width="100%" height="600" src="https://www.youtube.com/embed/pA-TfDiGeJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+        <section class="section-cta">
+			<div class="container">
+				<div class="row">				
+					<div class="col-md-10">
+						<h2>Ingresá al Portal de Noticias del Municipio de Marcos Paz y enteráte todas las novedades</h2>
+					</div>
+					<div class="col-md-2">
+						<a target="_blank" href="https://www.marcospaz.gov.ar/" class="button-cta">Ingresar</a>
+					</div>					
+				</div>
+			</div>
+		</section>
+
+
 
 
         <section id="phones" class="bg-mmp short-section stats-bar">
@@ -305,6 +325,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/boleto.png" width="50%">
                                 <h3>Tickets</h3>
                                 <p>Sistema de Tickets para Incidencias</p>
                             </div>
@@ -316,6 +337,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/administrador.png" width="50%">
                                 <h3>Administrador Cuari</h3>
                                 <p>Servicio de administracion de CUARI</p>
                             </div>
@@ -327,6 +349,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/administracion.png" width="50%">
                                 <h3>Administrador CMP</h3>
                                 <p>Servicio de administracion de Compro en Mi Pueblo</p>
                             </div>
@@ -338,6 +361,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/informacion.png" width="50%">
                                 <h3>CUIM</h3>
                                 <p>Sistema de Informacion Municipal</p>
                             </div>
@@ -349,6 +373,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/multa.png" width="50%">
                                 <h3>Faltas</h3>
                                 <p>Sistema de Multas de Tránsito y Comercios</p>
                             </div>
@@ -360,6 +385,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/security.png" width="50%">
                                 <h3>Seguridad</h3>
                                 <p>Sistema COM Marcos Paz</p>
                             </div>
@@ -371,6 +397,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/orden.png" width="50%">
                                 <h3>Suministros</h3>
                                 <p>Sistema de Suministros Internos</p>
                             </div>
@@ -382,10 +409,11 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/enfermera.png" width="50%">
                                 <h3>Cuidarte</h3>
                                 <p>Aplicacion Cuidar para Empleados Municipales</p>
                             </div>
-                            <a target="_blank" href="http://www.www.marcospazdigital.gob.ar/cuidarte/" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/cuidarte/" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -393,10 +421,11 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/empleados.png" width="50%">
                                 <h3>Registro Municipal</h3>
                                 <p>Sistema de registro para Empleados Municipales</p>
                             </div>
-                            <a target="_blank" href="http://www.www.marcospazdigital.gob.ar/registroempleadosmunicipales/" class="mz-module-button"> Ingresar </a>
+                            <a target="_blank" href="http://www.marcospazdigital.gob.ar/registroempleadosmunicipales/" class="mz-module-button"> Ingresar </a>
                         </div>
                     </div>
                     <!-- end about module -->
@@ -404,6 +433,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/webmail.png" width="50%">
                                 <h3>Webmail</h3>
                                 <p>Webmail Municipalidad de Marcos Paz</p>
                             </div>
@@ -415,6 +445,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/clock.png" width="50%">
                                 <h3>Turnos</h3>
                                 <p>Aplicacion Turnos Digitales</p>
                             </div>
@@ -426,6 +457,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/usuario.png" width="50%">
                                 <h3>Expedientes</h3>
                                 <p>Sistema de Expedientes Municipales Digitales</p>
                             </div>
@@ -437,6 +469,7 @@
                     <div class="col-md-3 text-center">
                         <div class="mz-module">
                             <div class="mz-module-abouts">
+                            	<img src="images/iconos/app.png" width="50%">
                                 <h3>Solicitud de Aplicaciones</h3>
                                 <p>Formulario para la creación de nuevas aplicaciones</p>
                             </div>
@@ -475,7 +508,8 @@
 				</div>
 			</div>
 		</section>
-		
+
+		<video src="images/vivimpaz.mp4" width="100%" height="100%" autoplay muted loop></video>		
 
 		<section class="light-bg">
 			<div class="container">
@@ -521,21 +555,6 @@
 				</div>
 			</div>
 		</section>
-
-
-        <section class="section-cta">
-			<div class="container">
-				<div class="row">				
-					<div class="col-md-10">
-						<h2>Ingresá al Portal de Noticias del Municipio de Marcos Paz y enteráte todas las novedades</h2>
-					</div>
-					<div class="col-md-2">
-						<a target="_blank" href="https://www.marcospaz.gov.ar/" class="button-cta">Ingresar</a>
-					</div>					
-				</div>
-			</div>
-		</section>
-        
 
 
 		<section id="contact" class="bg-mmp">
@@ -609,7 +628,7 @@
 		</p>
 		<footer>
 			<div class="container text-center">
-				<p>Marcos Paz Digital - Version 1.2 - Todos los derechos reservados</p>
+				<p>Marcos Paz Digital - Version 1.3 - Todos los derechos reservados</p>
 			</div>
 		</footer>
 

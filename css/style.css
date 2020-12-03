@@ -206,7 +206,7 @@ section ul li:before {
 	}
 	.navbar-default.navbar-shrink {
 		background-color: #FFFFFF;
-		border-bottom: 1px solid #828282;
+		border-bottom: 1px solid #dfdfdf;
 		padding: 5px 0;
 	}
 	.navbar-default.navbar-shrink .navbar-brand {
@@ -225,8 +225,8 @@ header {
 }
 
 .owl-slider-item {
-	position: relative;
-	background-color: #000;
+    position: relative;
+    background-color: #4a4a4a;
 }
 .owl-slider-item img {
 	opacity: 0.7;
@@ -234,7 +234,7 @@ header {
 .owl-slider .owl-controls {
 	position: absolute;
 	left: 0;
-	top: 38%;
+	top: 50%;
 	width: 100%;	
 }
 .owl-slider .owl-controls .owl-nav [class*=owl-] {
@@ -294,22 +294,20 @@ header {
 }
 
 .intro-text .intro-heading {
-	font-weight: 900;
-	font-size: 1em;
-	line-height: 48px;
-	margin-bottom: 25px;
-	letter-spacing: -3px;
-	word-spacing: 10px;
-	color: #FFFFFF;
-	text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-weight: 900;
+    font-size: 36px;
+    margin-bottom: 25px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #FFF;
+    text-shadow: 3px 3px 3px rgb(11, 168, 124);
 }
-
 @media (min-width: 768px) {
 	.intro-text .intro-heading {
 	    /* line-height: 95px; */
-	    font-size: 1em;
+	    font-size: 36px;
 	    margin-bottom: 50px;
-	    margin-top: 2em;
+	    margin-top: 50%;
 	}
 }
 
@@ -318,7 +316,7 @@ header {
 --------------------*/
 
 .section-title h2 {
-    font-size: 50px;
+    font-size: 2em;
     color: #3c3e40;
     font-weight: 900;
     letter-spacing: -0.6px;
@@ -326,7 +324,6 @@ header {
     margin: 0 0 50px 0;
     padding-bottom: 15px;
 }
-
 .section-title h2:after {
 	left: 50%;
 	z-index: 1;
@@ -360,9 +357,9 @@ header {
     background-color: #99999961;
 }
 .section-cta h2 {
-    color: #147e8b;
-    font-size: 23px;
-    font-weight: 300;
+    color: #232626;
+    font-size: 20px;
+    font-weight: bold;
 }
 .button-cta {
     border: 2px solid #167f88;
@@ -393,37 +390,37 @@ header {
 	margin-bottom: 4em;
 }
 .mz-module-about {
-    border: 1px solid #a8a8fb;
-    min-height: 240px;
+    border: 1px solid #e3e3e3;
+    height: 300px;
     padding: 20px;
-    background: #4ca056;
+    background: #fff;
     margin-top: 1em;
     margin-bottom: 1em;
 }
 .mz-module-abouts {
-    border: 1px solid #a8a8fb;
-    min-height: 240px;
+    border: 1px solid #e3e3e3;
+    height: 300px;
     padding: 20px;
-    background: #188087;
+    background: #fff;
     margin-top: 1em;
     margin-bottom: 1em;
 }
 .mz-module-about h3 {
     font-weight: 800;
-    font-size: 21px;
+    font-size: 15px;
     text-transform: uppercase;
-    color: #ffffff;
-    /* letter-spacing: 2px; */
+    color: #686262;
+    letter-spacing: 2px;
     margin-bottom: 20px;
     text-decoration: underline;
     margin-top: 50px;
 }
 .mz-module-abouts h3 {
     font-weight: 800;
-    font-size: 21px;
+    font-size: 15px;
     text-transform: uppercase;
-    color: #ffffff;
-    /* letter-spacing: 2px; */
+    color: #686262;
+    letter-spacing: 2px;
     margin-bottom: 20px;
     text-decoration: underline;
     margin-top: 50px;
@@ -435,19 +432,19 @@ header {
 	color: #FFFFFF;
 }
 .mz-module-about p {
-    font-size: 15px;
+    font-size: 12px;
     font-weight: 500;
     line-height: 22px;
-    color: #ffeeb5;
+    color: #555;
 }
 .mz-module-abouts p {
-    font-size: 15px;
+    font-size: 12px;
     font-weight: 500;
     line-height: 22px;
-    color: #ffeeb5;
+    color: #555;
 }
 .mz-module-button {
-    background-color: #777;
+    background-color: #69bba0;
     padding: 15px;
     text-transform: uppercase;
     font-weight: 700;
@@ -468,7 +465,7 @@ header {
 	opacity: 1;
 }
 .mz-module-button:hover {
-	background: #000;
+	background: #3c9cb9;
     color: white;
 	text-decoration: none;
 }
@@ -866,11 +863,11 @@ section#contact .form-group input, section#contact .form-group textarea {
 
 footer {
 	padding: 30px;
-	background-color: #484848;	
+	background-color: #fff;	
 }
 
 footer p {
-	color: #B7B7B7;
+	color: #3c3c3c;
 	margin: 0;
 	font-size: 10px;
 	text-transform: uppercase;
