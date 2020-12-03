@@ -151,14 +151,13 @@ section ul li:before {
 	border-color: rgba(255,255,255,.02)
 }
 .navbar-default .navbar-toggle {
-	background-color: #1f847f;
-	border-color: #1f847f
+
 }
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: #fff
+	background-color: #000;
 }
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
-	background-color: #1f847f
+	background-color: #fff
 }
 .navbar-default .nav li a {
 	font-family: "Open Sans",sans-serif;
@@ -221,7 +220,7 @@ section ul li:before {
 --------------------*/
 
 header {
-    margin-top: 2px;
+    margin-top: -25px;
 }
 
 .owl-slider-item {
@@ -354,7 +353,7 @@ header {
 
 .section-cta {
     color: #fff;
-    background-color: #99999961;
+    background-color: #fff;
 }
 .section-cta h2 {
     color: #232626;
